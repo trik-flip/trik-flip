@@ -1,0 +1,19 @@
+# Add 'repo' label to any root file changes
+Repo:
+  - ./*
+  
+# Add 'GitHub' label to any change within the 'core' package
+GitHub:
+  - .github/*
+
+# Add 'workflow' label to any change to files inside the workflows folder
+Workflow:
+  - .github/workflows/*
+
+# Add 'source' label to any change to src files within the source dir
+Source:
+  - src/**/*
+  - src/*
+Docs:
+  - docs/**/*
+  - docs/*
