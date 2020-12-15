@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a title="Trik-Flip Developer's stats" href="https://github.com/Trik-Flip/">
-  <img alt="Trik-Flip Developer's stats" src="https://github-readme-stats.vercel.app/api?username=trik-flip&include_all_commits=true&show_icons=true&theme=nightowl" />
-</a>
+[![Trik-Flip Developer's stats](https://github-readme-stats.vercel.app/api?username=trik-flip&include_all_commits=true&show_icons=true&theme=nightowl)](https://github.com/Trik-Flip/)
+[![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trik-flip&layout=compact)](https://github.com/Trik-Flip/)
